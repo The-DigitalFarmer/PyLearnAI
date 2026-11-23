@@ -5,10 +5,10 @@
 
 ## ¿Qué diablos hace esto?
 
-No mucho, excepto buscar methodos de python en específico (Indica brevemente que hace cada método). El objetivo de este código es solo prácticar y ayudar a principiantes.
+No mucho, excepto buscar methodos de python en específico (Indica brevemente que hace cada método). El objetivo de este código es solo prácticar y ayudar a entender cada método.
 
 * **¿Sirve para algo que no haga un libro?**
-  : [Realmente NO] pero, joder, esoy aprendiendo
+  : [Realmente NO] pero, joder, estoy aprendiendo
   
 ## Estado del proyecto
 
