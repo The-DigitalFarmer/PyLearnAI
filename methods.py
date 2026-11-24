@@ -1,6 +1,4 @@
-from data import methods, search_method
-
-search = {clave: valor for claves, valor in search_method for clave in claves}
+from data import methods, search
 
 
 def get_method(tip, metd):
